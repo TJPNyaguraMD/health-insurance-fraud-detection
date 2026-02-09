@@ -1,4 +1,4 @@
-# 🏥 Healthcare Insurance Fraud Detection
+#  Healthcare Insurance Fraud Detection
 
 ## Complete Machine Learning Analysis & Production-Ready System
 
@@ -26,7 +26,7 @@ This project identifies fraudulent healthcare insurance claims using machine lea
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ```bash
 # Install dependencies
@@ -43,7 +43,7 @@ open REAL_DATA_INDEX.html
 
 ---
 
-## 📊 Key Results
+##  Key Results
 
 ### Model Performance
 
@@ -68,7 +68,7 @@ open REAL_DATA_INDEX.html
 
 ---
 
-## 📁 What's Included
+##  What's Included
 
 ### Notebooks
 - `COMPLETE_FRAUD_ANALYSIS.ipynb`
@@ -92,7 +92,7 @@ open REAL_DATA_INDEX.html
 
 ---
 
-## 💻 Installation
+##  Installation
 
 ### Requirements
 - Python 3.8+
@@ -143,7 +143,7 @@ See `INSTALLATION_GUIDE.md` for detailed setup instructions.
 
 ---
 
-## 🎯 Key Findings
+##  Key Findings
 
 ### 1. Cluster 1 is the Primary Fraud Vector
 
@@ -173,7 +173,7 @@ Random Forest achieves near-perfect detection:
 
 ---
 
-## 💡 Recommendations
+##  Recommendations
 
 ### Immediate (Week 1-2)
 
@@ -195,7 +195,7 @@ Random Forest achieves near-perfect detection:
 
 ---
 
-## 💰 Financial Impact
+##  Financial Impact
 
 ### Current State
 - **Annual fraud:** $1.18M (estimated)
@@ -215,7 +215,7 @@ Random Forest achieves near-perfect detection:
 
 ---
 
-## 📚 Documentation
+##  Documentation
 
 - **README.md** (this file) - Project overview
 - **NOTEBOOK_REPORT.md** - Detailed analysis report
@@ -224,7 +224,7 @@ Random Forest achieves near-perfect detection:
 
 ---
 
-## 🔧 Troubleshooting
+##  Troubleshooting
 
 **"No module named 'openpyxl'"**
 ```bash
@@ -246,7 +246,6 @@ See `INSTALLATION_GUIDE.md` for more solutions.
 
 ---
 
-## 📞 Support
 
 - 📚 Documentation: See `NOTEBOOK_REPORT.md`
 - 🐛 Issues: Report problems via GitHub
@@ -259,7 +258,7 @@ This analysis is for educational and informational purposes. Validate models tho
 
 ---
 
-## 🎓 Learn More
+##  Learn More
 
 The notebook includes extensive commentary explaining:
 - What each section does
