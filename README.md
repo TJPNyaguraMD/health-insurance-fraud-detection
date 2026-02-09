@@ -248,7 +248,6 @@ See `INSTALLATION_GUIDE.md` for more solutions.
 
 ## 📞 Support
 
-- 📧 Email: analytics@healthcare.org
 - 📚 Documentation: See `NOTEBOOK_REPORT.md`
 - 🐛 Issues: Report problems via GitHub
 
