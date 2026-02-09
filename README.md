@@ -71,9 +71,7 @@ open REAL_DATA_INDEX.html
 ## 📁 What's Included
 
 ### Notebooks
-- `COMPLETE_FRAUD_ANALYSIS_WITH_COMMENTARY.ipynb` ⭐ **Main analysis with full explanations**
-- `ORIGINAL_NOTEBOOK.ipynb` - Your original work
-- `COMPLETE_FRAUD_ANALYSIS.ipynb` - Code-only version
+- `COMPLETE_FRAUD_ANALYSIS.ipynb`
 
 ### Reports
 - `REAL_DATA_INDEX.html` - Interactive dashboard
